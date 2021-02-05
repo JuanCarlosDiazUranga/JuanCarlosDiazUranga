@@ -1,6 +1,6 @@
 ## Soy Juan Carlos Díaz
 ### Actualmente estudio grado superior de desarrollo de aplicaciones web en el pirámide 
-Titulación:
+# Titulación:
 
 
 - Bachillerato
@@ -11,7 +11,7 @@ Titulación:
 - Curso de monitor y tiempo libre
 
 
-Experiencias laborales:
+# Experiencias laborales:
 
 
 - 2 años de trabajo de monitor en campamentos
@@ -21,7 +21,7 @@ Experiencias laborales:
 
 
 
-Colaboraciones 
+# Colaboraciones 
 
 
 He estado implicado en la elaboración y desarrollo de paguinas web hechas en clases, junto con diferentes colaboraciones de diferentes naturalezas y con funcionalidades varias
