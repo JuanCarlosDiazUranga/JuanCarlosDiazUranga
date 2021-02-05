@@ -18,7 +18,7 @@ Experiencias laborales:
 - 2 años de trabajo de salvavidas en la filial del BBVA (club social y deportivo provincial)
 - 3 años de trabajo como dependiente 
 - 3 años como camarero 
--
+
 
 
 Colaboraciones 
