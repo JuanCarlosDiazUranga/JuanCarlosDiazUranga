@@ -8,7 +8,7 @@ Titulación:
 - Curso de producción de televisión
 - Curso de salvavidas
 - Curso de locución 
-- Curso de recreación
+- Curso de monitor y tiempo libre
 
 
 Experiencias laborales:
