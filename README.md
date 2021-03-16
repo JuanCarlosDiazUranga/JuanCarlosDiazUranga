@@ -1,5 +1,5 @@
 ## Soy Juan Carlos Díaz
-### Actualmente estudio grado superior de desarrollo de aplicaciones web en el pirámide 
+### Actualmente estudio grado superior de desarrollo de aplicaciones web en el  CPIFP Pirámide 
 # Titulación:
 
 
